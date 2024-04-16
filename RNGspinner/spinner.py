@@ -1,15 +1,17 @@
 import random 
 
 reward_probs = { 
-        'Steam Deck': 0.00001,
+        'Chord Mojo 2': 0.00001,
         'nothing': 0.5,
-        'next shower is warm': 0.05, 
-        '10 mins social media': 0.1, 
-        'game of league': 0.05, 
+        '30 minutes of video games': 0.05, 
+        '30  mins of phone time': 0.1, 
+        'SS13 with friends on weekend': 0.05, 
         'eat takeout': 0.05, 
-        '10 mins of anything': 0.05, 
-        '10 mins of chess': 0.05, 
-        'read an article': 0.1, 
+        '20 mins of anything': 0.05, 
+        '20 mins of model building': 0.05, 
+        'Trip to Newbury Comics': 0.05, 
+        'Trip to Games Workshop': 0.05, 
+        'read an news article': 0.1, 
         'two spins': 0.04999, 
 }
 def spin(): 
