@@ -9,8 +9,8 @@ reward_probs = {
         'eat takeout': 0.05, 
         '20 mins of anything': 0.05, 
         '20 mins of model building': 0.05, 
-        'Trip to Newbury Comics': 0.05, 
-        'Trip to Games Workshop': 0.05, 
+        'Trip to Newbury Comics': 0.03, 
+        'Trip to Games Workshop': 0.03, 
         'read an news article': 0.1, 
         'two spins': 0.04999, 
 }
