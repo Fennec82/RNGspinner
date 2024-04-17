@@ -9,10 +9,10 @@ reward_probs = {
         'Get takeout': 0.05, 
         '20 mins of anything': 0.05, 
         '20 mins of model building': 0.05, 
-        'Trip to Newbury Comics': 0.04, 
-        'Trip to Games Workshop': 0.05, 
-        'Read a news article': 0.1, 
-        'Two spins': 0.04999, 
+        'Trip to Newbury Comics': 0.03, 
+        'Trip to Games Workshop': 0.03, 
+        'read an news article': 0.1, 
+        'two spins': 0.04999, 
 }
 def spin(): 
     return random.choices(list (reward_probs. keys ()), list (reward_probs. values () )) [0]
