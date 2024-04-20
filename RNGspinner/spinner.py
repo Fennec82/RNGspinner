@@ -1,8 +1,8 @@
 import random 
 
 reward_probs = { 
-        'Chord Mojo 2': 0.00001,
-        'Asus Flashstor 6 NAS': 0.00001,
+        'Chord Mojo 2': 0.0001,
+        'Asus Flashstor 6 NAS': 0.0001,
         'Nothing': 0.5,
         '30 minutes of video games': 0.05, 
         '30  mins of phone time': 0.1, 
