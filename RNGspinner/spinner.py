@@ -25,3 +25,5 @@ def main():
         with open('rewards.txt', 'a') as f: 
             f.write(spin_result +'\n') 
 if __name__ == '__main__': main()
+
+
