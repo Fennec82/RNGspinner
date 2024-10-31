@@ -1,15 +1,15 @@
 import random 
 
 reward_probs = { 
-        'Chord Mojo 2': 0.0001,
+        'Fiio M17': 0.0001,
         'Asus Flashstor 6 NAS': 0.0001,
         'Nothing': 0.5,
-        '30 minutes of video games': 0.05, 
-        '30  mins of phone time': 0.1, 
-        'SS13 with friends on weekend': 0.05, 
+        '1 hour of video games': 0.05, 
+        '1 hour of phone time': 0.1, 
+        'Gaming with friends on weekend': 0.05, 
         'Get takeout': 0.05, 
-        '20 mins of anything': 0.05, 
-        '20 mins of model building': 0.05, 
+        '30 mins of anything': 0.05, 
+        'Model building on weekend': 0.05, 
         'Trip to Newbury Comics': 0.03, 
         'Trip to Games Workshop': 0.03, 
         'Read an news article': 0.1, 
